@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+tests/*.mp4
+tests/*.npy
+*.tracklab.json
+!examples/*.tracklab.json
+examples/*.mp4.tracklab.json
+examples/*.webm.tracklab.json
+examples/src/
